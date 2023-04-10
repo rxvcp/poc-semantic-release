@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/rxvcp/poc-semantic-release/compare/v1.0.0...v1.0.1) (2023-04-10)
+
+
+### Bug Fixes
+
+* **config:** build.gradle ([be98178](https://github.com/rxvcp/poc-semantic-release/commit/be981783a9cffcc4456c8dc0fef3ce20379c2e5a))
+
 # 1.0.0 (2023-04-10)
 
 

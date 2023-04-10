@@ -6,7 +6,7 @@ plugins {
 }
 
 group = 'com.example'
-//version = '0.0.1-SNAPSHOT'
+// version = '1.0.0'
 sourceCompatibility = '17'
 
 publishing {
@@ -20,6 +20,20 @@ publishing {
       }
     }
   }
+  publications {
+        maven(MavenPublication) {
+            from components.java
+			versionMapping {
+                usage('java-api') {
+                    fromResolutionOf('runtimeClasspath')
+                }
+                usage('java-runtime') {
+                    fromResolutionResult()
+                }
+            }
+		}
+
+	}
 }
 
 repositories {
