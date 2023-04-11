@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/rxvcp/poc-semantic-release/compare/v1.0.2...v1.0.3) (2023-04-11)
+
+
+### Bug Fixes
+
+* **config:** add chagelog to assets ([2e2b7b4](https://github.com/rxvcp/poc-semantic-release/commit/2e2b7b417f38ecc2feb290939ca5265610672bf7))
+
 ## [1.0.2](https://github.com/rxvcp/poc-semantic-release/compare/v1.0.1...v1.0.2) (2023-04-11)
 
 
