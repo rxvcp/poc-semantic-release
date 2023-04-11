@@ -8,6 +8,7 @@ plugins:
   - -  "@semantic-release/git"
     - assets:
         - gradle.properties
+        - CHANGELOG.md
       message: "chore(release): bump ${nextRelease.version}"
 
 branches:
