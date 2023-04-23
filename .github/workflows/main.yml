@@ -26,7 +26,6 @@ jobs:
         npm install -g @semantic-release/exec
         npm install -g @semantic-release/git
         npm install -g @semantic-release/gradle-semantic-release-plugin
-        npm install -g @gradle-semantic-release-plugin
         npm i -g gradle-semantic-release-plugin
         npm i -g semantic-release-monorepo                                                                                                                                                                                                           npm install -g semantic-release-gradle
         npm install -g @semantic-release/changelog
