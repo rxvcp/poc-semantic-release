@@ -20,15 +20,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        npm install -g semantic-release
-        npm install -g @semantic-release/commit-analyzer
-        npm install -g @semantic-release/release-notes-generator
-        npm install -g @semantic-release/exec
-        npm install -g @semantic-release/git
-        npm install -g @semantic-release/gradle-semantic-release-plugin
-        npm i -g gradle-semantic-release-plugin
-        npm i -g semantic-release-monorepo                                                                                                                                                                                                           npm install -g semantic-release-gradle
-        npm install -g @semantic-release/changelog
+        npm install -g semantic-release @semantic-release/commit-analyzer @semantic-release/release-notes-generator @semantic-release/exec @semantic-release/git gradle-semantic-release-plugin semantic-release-monorepo @semantic-release/changelog
 
     - name: Run semantic-release
       run: npx semantic-release
