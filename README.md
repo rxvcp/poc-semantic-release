@@ -1,5 +1,3 @@
 # poc-semantic-release
 
-move to spring boot 3
-
-breaking change
+move to spring boot 3e
