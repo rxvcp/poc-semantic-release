@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/rxvcp/poc-semantic-release/compare/v1.1.0...v1.2.0) (2023-04-25)
+
+
+### Features
+
+* drop Node.js 6 support \n\n BREAKING CHANGE: Node.js >= 8 required # => v2.0.0 on [@latest](https://github.com/latest) ([4fc361c](https://github.com/rxvcp/poc-semantic-release/commit/4fc361cc8c5eba858bc2c96e1424f76434a63ef5))
+
 # [1.1.0](https://github.com/rxvcp/poc-semantic-release/compare/v1.0.4...v1.1.0) (2023-04-25)
 
 
