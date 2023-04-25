@@ -1,14 +1,16 @@
 plugins:
   - "@semantic-release/commit-analyzer"
+  - - "@semantic-release/exec"
+    - verifyReleaseCmd: echo "${nextRelease.version}" >> version.txt
   - "@semantic-release/release-notes-generator"
   - "@semantic-release/changelog"
-    #  - - "@semantic-release/exec"
-    #    - verifyReleaseCmd: 'mvn versions:set -DnewVersion="${nextRelease.version}" && echo "NEXT_VERSION=${nextRelease.version}" >> build.env'
+
   - "gradle-semantic-release-plugin"
   - -  "@semantic-release/git"
     - assets:
         - gradle.properties
         - CHANGELOG.md
+        - version.txt
       message: "chore(release): bump ${nextRelease.version}"
 
 branches:
