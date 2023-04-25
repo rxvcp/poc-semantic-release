@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/rxvcp/poc-semantic-release/compare/v1.2.0...v2.0.0) (2023-04-25)
+
+
+### Performance Improvements
+
+* **pencil:** remove graphiteWidth option ([cabdb4f](https://github.com/rxvcp/poc-semantic-release/commit/cabdb4f7580f403301f5338554d3f382e5811a0c))
+
+
+### BREAKING CHANGES
+
+* **pencil:** The graphiteWidth option has been removed.
+The default graphite width of 10mm is always used for performance reasons.
+
 # [1.2.0](https://github.com/rxvcp/poc-semantic-release/compare/v1.1.0...v1.2.0) (2023-04-25)
 
 
