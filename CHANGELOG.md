@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/rxvcp/poc-semantic-release/compare/v1.0.4...v1.1.0) (2023-04-25)
+
+
+### Features
+
+* feature 1 ([a7594b8](https://github.com/rxvcp/poc-semantic-release/commit/a7594b81d38c84f94fbc92f411488c0f63c6e77c))
+
 ## [1.0.4](https://github.com/rxvcp/poc-semantic-release/compare/v1.0.3...v1.0.4) (2023-04-25)
 
 
