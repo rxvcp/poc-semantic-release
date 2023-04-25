@@ -1,3 +1,11 @@
+## [1.0.4](https://github.com/rxvcp/poc-semantic-release/compare/v1.0.3...v1.0.4) (2023-04-25)
+
+
+### Bug Fixes
+
+* **config:** configuration ([b8316a4](https://github.com/rxvcp/poc-semantic-release/commit/b8316a4269a4f143d7ee5fb45f021efc72127d38))
+* **config:** configuration ([b0ec72c](https://github.com/rxvcp/poc-semantic-release/commit/b0ec72c4e168d82b5b6cdbe8c3a83aba59082844))
+
 ## [1.0.3](https://github.com/rxvcp/poc-semantic-release/compare/v1.0.2...v1.0.3) (2023-04-11)
 
 
