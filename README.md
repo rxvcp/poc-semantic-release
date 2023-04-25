@@ -1,3 +1,3 @@
 # poc-semantic-release
 
-move to spring boot 3e
+move to spring boot feat
