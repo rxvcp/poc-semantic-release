@@ -1,7 +1,7 @@
 plugins:
   - "@semantic-release/commit-analyzer"
   - - "@semantic-release/exec"
-    - verifyReleaseCmd: echo "${release.version}" > version.txt
+    - verifyReleaseCmd: echo "${version}" > version.txt
   - "@semantic-release/release-notes-generator"
   - "@semantic-release/changelog"
 
