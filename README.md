@@ -1,3 +1,3 @@
 # poc-semantic-release
 
-move to spring boot feat fix
+move to spring boot feat fix fix
