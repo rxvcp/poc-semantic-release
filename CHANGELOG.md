@@ -1,3 +1,15 @@
+# [2.2.0](https://github.com/rxvcp/poc-semantic-release/compare/v2.1.3...v2.2.0) (2023-05-05)
+
+
+### Bug Fixes
+
+* readme ([ca8b604](https://github.com/rxvcp/poc-semantic-release/commit/ca8b6042c5ad46b04f65e5a9c923a6d7f7bd51be))
+
+
+### Features
+
+* **readme:** readme ([9f286b8](https://github.com/rxvcp/poc-semantic-release/commit/9f286b86078cd2a7664689aef69c4768c4af615a))
+
 ## [2.1.3](https://github.com/rxvcp/poc-semantic-release/compare/v2.1.2...v2.1.3) (2023-04-28)
 
 
